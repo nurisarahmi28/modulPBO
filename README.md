@@ -1,1 +1,9 @@
 # modulPBO
+![Alt Text](https://github.com/nurisarahmi28/modulPBO/blob/master/ARITMATIKA.png)
+![Alt Text](https://github.com/nurisarahmi28/modulPBO/blob/master/BOLABALOK.png)
+![Alt Text](https://github.com/nurisarahmi28/modulPBO/blob/master/BiodataDIRI.png)
+![Alt Text](https://github.com/nurisarahmi28/modulPBO/blob/master/HELLO%20TELKOM.png)
+![Alt Text](https://github.com/nurisarahmi28/modulPBO/blob/master/LuasBALOK.png)
+![Alt Text](https://github.com/nurisarahmi28/modulPBO/blob/master/PENGGUNAAN%20VARIABEL.png)
+![Alt Text](https://github.com/nurisarahmi28/modulPBO/blob/master/SEPEDAMOTOR.png)
+![Alt Text](https://github.com/nurisarahmi28/modulPBO/blob/master/TUGASEKSPLORASI.png)
